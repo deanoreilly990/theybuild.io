@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 180" width="720" height="180" role="img" aria-labelledby="title desc">
+  <title id="title">theybuild.io</title>
+  <desc id="desc">theybuild.io wordmark — black on light background. The &#34;theybuild&#34; portion is set in DM Serif Display in near-black; the &#34;.io&#34; sits in primary teal.</desc>
+  <defs>
+    
+  </defs>
+  <text class="wm" x="50%" y="62%" text-anchor="middle" dominant-baseline="middle" font-size="120" letter-spacing="-2">
+    <tspan fill="#0a0a0a">theybuild</tspan><tspan fill="#0d7377">.io</tspan>
+  </text>
+</svg>
